@@ -8,7 +8,8 @@ Simple Todo List using:
 Main screen (notes list):
 
 
-![image](https://github.com/user-attachments/assets/50846b60-ad1f-4cd6-9d2e-ffa4eae1d54c)
+![image](https://github.com/user-attachments/assets/3570c6db-7697-484a-a0d0-24de20460716)
+
 
 Add note screen:
 
